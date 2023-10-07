@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "restaurant-page",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Righteous1ce/restaurant-page.git"
+  },
+  "author": "Righteous1ce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Righteous1ce/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Righteous1ce/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
